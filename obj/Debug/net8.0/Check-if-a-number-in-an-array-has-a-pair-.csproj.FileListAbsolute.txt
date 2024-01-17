@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\bin\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.exe
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\bin\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.deps.json
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\bin\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\bin\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.dll
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\bin\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.pdb
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.dll
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\refint\Check-if-a-number-in-an-array-has-a-pair-.dll
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.pdb
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\Check-if-a-number-in-an-array-has-a-pair-.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Check-if-a-number-in-an-array-has-a-pair-\obj\Debug\net8.0\ref\Check-if-a-number-in-an-array-has-a-pair-.dll
